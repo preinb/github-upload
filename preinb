@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/preinb/github-upload.git
+git add .
+git commit -m "initalizing repository"
+git push -u origin main
